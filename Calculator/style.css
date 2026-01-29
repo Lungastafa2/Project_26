@@ -2,9 +2,37 @@
     background: rgb(153, 72, 72);
 } */
 
-#Outbody {
-    background-color: lightblue;
+.outerbody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+
+#innerbody {
+    background-color: rgb(151, 155, 157);
     color: black;
-    padding: 40px;
+    padding: 1.5%; 
     text-align: center;
+    height: 300px;
+    width: 180px;
+    border-radius: 5%;
+    
+}
+#div_screen {
+    background: green;
+    margin-bottom: 10%;
+}
+
+#screen {
+    height: 50px;
+    width: 168px;
+    margin: 2px;
+}
+
+.button {
+    background: rgb(16, 125, 198);
+    margin-bottom: 10%;
 }
