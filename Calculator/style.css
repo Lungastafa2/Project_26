@@ -19,6 +19,7 @@
     height: 300px;
     width: 180px;
     border-radius: 5%;
+    border: 2px solid gray;
     
 }
 #div_screen {
@@ -33,6 +34,22 @@
 }
 
 .button {
-    background: rgb(16, 125, 198);
-    margin-bottom: 10%;
+    /* background: rgb(16, 125, 198); */
+    margin-bottom: 5%;
 }
+
+.btn {
+
+    height: 36px;
+    color: aquamarine;
+    border-radius: 10%;
+}
+
+.bt_bg {
+    width: 85px;
+}
+
+.bt_sm {
+    width: 40px;
+}
+
