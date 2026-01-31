@@ -34,14 +34,14 @@
 }
 
 .button {
-    /* background: rgb(16, 125, 198); */
+
     margin-bottom: 5%;
 }
 
 .btn {
 
     height: 36px;
-    color: aquamarine;
+    color: rgb(28, 109, 20);
     border-radius: 10%;
 }
 
