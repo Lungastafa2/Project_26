@@ -22,11 +22,12 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          I'm starting hereq
+          
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Lunga learning React
       </p>
     </>
   )
