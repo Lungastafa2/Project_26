@@ -1,0 +1,67 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} 
+
+
+.outerbody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+
+#innerbody {
+  background-color: rgb(151, 155, 157);
+  color: black;
+  padding: 1.5%; 
+  text-align: center;
+  height: 305px;
+  width: 180px;
+  border-radius: 5%;
+  border: 2px solid gray;
+  padding: 30px;
+  
+}
+#div_screen {
+  background: green;
+  margin-bottom: 10%;
+}
+
+#screen {
+  height: 50px;
+  width: 168px;
+  margin: 2px;
+}
+
+.button {
+
+  margin-bottom: 5%;
+}
+
+.btn {
+
+  height: 36px;
+  color: rgb(143, 192, 138);
+  border-radius: 10%;
+  margin: 1%;
+}
+
+.btn:hover {
+  
+  color: rgb(253, 252, 252);
+  
+}
+
+.bt_bg {
+  width: 85px;
+}
+
+.bt_sm {
+  width: 40px;
+}
+
